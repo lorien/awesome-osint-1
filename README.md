@@ -28,6 +28,7 @@ In the intelligence community (IC), the term "open" refers to overt, publicly av
    - [VKontakte](#-vkontakte)
    - [Tumblr](#-tumblr)
    - [LinkedIn](#-linkedin)
+   - [Telegram](#-telegram)
  - [Blog Search](#-blog-search)
  - [Forums and Discussion Boards Search](#-forums-and-discussion-boards-search)
  - [Username Check](#-username-check)
@@ -441,6 +442,10 @@ algorithms, knowledgebase and AI technology.
 ### [↑](#contents) LinkedIn
 
 * [FTL](https://chrome.google.com/webstore/detail/ftl/lkpekgkhmldknbcgjicjkomphkhhdkjj?hl=en-GB) - Browser plugin that finds emails of people's profiles in LinkedIn.
+
+### [↑](#contents) Telegram
+
+* [TgScanRobot](https://t.me/TgScanRobot) - Telegram bot to search telegram groups which the person is member of.
 
 ## [↑](#contents) Blog Search
 
